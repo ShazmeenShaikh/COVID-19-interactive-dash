@@ -1,0 +1,11 @@
+name: example-environment
+
+dependencies:
+  - pandas
+  - numpy
+  - bqplot
+  - matplotlib
+  - ipyleaflet
+  - requests
+  - plotly
+  - ipywidgets
