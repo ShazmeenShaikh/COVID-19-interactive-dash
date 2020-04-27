@@ -1,8 +1,6 @@
-# COVID-19 dashboard: Figures for the Pandemic
 [![Binder](https://mybinder.org/badge_logo.svg)](https://mybinder.org/v2/gh/ShazmeenShaikh/COVID-19-interactive-dash/master?filepath=Final_Dashboard.ipynb)
 
-.. image:: https://mybinder.org/badge_logo.svg
- :target: https://mybinder.org/v2/gh/ShazmeenShaikh/COVID-19-interactive-dash/master?filepath=Final_Dashboard.ipynb
+# COVID-19 dashboard: Figures for the Pandemic
  
 Binder Link: https://mybinder.org/v2/gh/ShazmeenShaikh/COVID-19-interactive-dash/master?filepath=Final_Dashboard.ipynb
 
