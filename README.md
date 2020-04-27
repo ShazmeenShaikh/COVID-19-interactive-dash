@@ -1,5 +1,10 @@
 # COVID-19 dashboard: Figures for the Pandemic
-Binder Link: 
+[![Binder](https://mybinder.org/badge_logo.svg)](https://mybinder.org/v2/gh/ShazmeenShaikh/COVID-19-interactive-dash/master?filepath=Final_Dashboard.ipynb)
+
+.. image:: https://mybinder.org/badge_logo.svg
+ :target: https://mybinder.org/v2/gh/ShazmeenShaikh/COVID-19-interactive-dash/master?filepath=Final_Dashboard.ipynb
+ 
+Binder Link: https://mybinder.org/v2/gh/ShazmeenShaikh/COVID-19-interactive-dash/master?filepath=Final_Dashboard.ipynb
 
 Description:
 Coronavirus disease 2019 (COVID-19) is an infectious disease caused by severe acute respiratory syndrome coronavirus 2 (SARS-CoV-2). The disease was first identified in December 2019 in Wuhan, the capital of China's Hubei province, and has since spread globally, resulting in the ongoing 2019–20 coronavirus pandemic. (1) This dataset was shared publicly and is available from many different websites. All the data collected and displayed is made freely available, initially as google sheets and now in a GitHub repository. I've created a similar dashboard using dataset available. It illustrates the location and number of confirmed COVID-19 cases for all affected countries.
